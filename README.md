@@ -41,6 +41,7 @@ Start here. These turn the notes into choices.
 |---|---|
 | [Agents and workflows](agents/agents-and-workflows.md) | Workflow vs agent, and a 7-agent deal-finding system |
 | [Serving models with Modal](agents/serving-models-with-modal.md) | Serverless GPU inference, cold starts, keeping models warm |
+| [Shipping an LLM workflow to production](agents/shipping-an-llm-workflow.md) | Short queued steps, side effects guarded in code, real costs from a hosted app |
 
 ## Learning log
 
